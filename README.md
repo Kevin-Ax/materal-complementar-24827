@@ -54,10 +54,3 @@ Before finalizing the comprehensive general-purpose metric, a series of parametr
 * **Role in the Paper:** This experiment directly gave birth to the core metrics evaluated in the final paper: the *Score-Oriented Solution* ($S_s$), the *Balanced Solution* ($S_b$), and the *High-Scope Metric* ($S_a$). These metrics were later validated against Transfermarkt financial values and official Campeonato Brasileiro Série A team standings.
 
 ---
-
-## 🚀 How to Use the Material
-
-### Prerequisites
-To explore the datasets or replicate any ongoing analysis, we recommend using Python (via Google Colab or locally) with the following stack:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
