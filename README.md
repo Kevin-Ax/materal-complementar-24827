@@ -28,7 +28,6 @@ This file contains the full matrix of technical, tactical, and physical performa
 
 ### 2. Club-Mapped Dataset (`club_mapped_dataset.csv`)
 To account for contextual variables and team environments, this dataset is identical in statistical content to the first one but includes explicit variables signaling the **clubs** for which the players played during the analyzed period. 
-* **Use Case:** Ideal for analyzing network effects, team-level dependencies, or contextualizing player performance based on team strength or tactical systems.
 
 ---
 
